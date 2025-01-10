@@ -2,7 +2,7 @@
   
   <!-- Top Languages (Excluding Specific Repositories) -->
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxiZm&langs_count=7&bg_color=161b22&title_color=71a7f7&text_color=b2bfd9&border_color=2d3d54&layout=compact&card_width=500&size_weight=0.1&count_weight=1&type=public" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxiZm&langs_count=7&bg_color=161b22&title_color=71a7f7&text_color=b2bfd9&border_color=2d3d54&layout=compact&card_width=500&size_weight=1&count_weight=1&type=public" 
     height="250" 
     style="border-radius: 10px; margin-bottom: 10px;"
   />
